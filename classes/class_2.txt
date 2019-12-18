@@ -1,0 +1,14 @@
+Class: Vegetables
+
+Attributes:
+amount (integer)
+last_delivery (string)
+to_order (boolean)
+used_for (array)
+cost (float)
+
+Methods:
+amount_count (changes the amount and possibly the to_order)
+schedule_delivery (changes the last_delivery)
+change_recipe (changes the used_for array)
+change_distributor (changes the cost)

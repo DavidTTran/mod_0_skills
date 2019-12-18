@@ -1,0 +1,25 @@
+Becoming a Turing Student
+
+1. Do research
+  1.1 Find Alumni
+  1.2 Look for reviews
+    1.2.1 glassdoor
+    1.2.1 (other online social media that people put professional information on that I can't remember)
+2. Attend Try Coding
+  2.1 Find a weekend that best lines up with your schedule
+    2.1.1 Prepare notebook and laptop
+    2.1.2 Bring questions as well
+3. Apply for a cohort online
+  3.1 Answer personal questions
+  3.2 Answer logical puzzles
+4. Have an online/in-person interview
+5. Pay a deposit
+  5.1 Receive Apple laptop
+6. Apply for mod-0 online sessions
+7. Attend mod-0 sessions
+  7.1 Ask questions
+  7.2 Practice
+  7.3 Complete capstone assignments
+    7.3.1 Attend Capstone study sessions if necessary
+8. Pay for first month at Turing
+9. Attend first class!

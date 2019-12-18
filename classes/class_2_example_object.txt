@@ -1,0 +1,15 @@
+Instance: Carrots
+
+Attributes:
+amount = 200
+last_delivery = "12/12/19"
+to_order = false
+used_for = ['carrot cake', 'carrot pie', 'carrot smoothie']
+cost = 12.45
+
+Methods:
+amount_count: amount = 100
+schedule_delivery: last_delivery = "12/17/19"
+  to_order = true
+change_recipe: used_for = ['carrot cake', 'carrot pie', 'carrot smoothie', 'torched carrot']
+change_distributor: cost = 11.50

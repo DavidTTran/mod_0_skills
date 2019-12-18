@@ -1,0 +1,21 @@
+Instance: Adams' Family
+
+# Little weird for my example.. Initial Attributes
+are before a reservation is made. Method changes them
+
+Attributes:
+number_in_party = 4
+name_of_party = 'Adam'
+amount_charged = 0
+number_of_infants = 0
+amount_tipped = 0
+reservation = false
+
+Methods:
+make_reservation:
+  reservation = true
+  name_of_party = 'Adam'
+  number_in_party = 4
+count_tipped: amount_tipped = 25.00
+total_payment: 212.43 + 25.00 = 237.43
+charge: amount_charged = 212.43

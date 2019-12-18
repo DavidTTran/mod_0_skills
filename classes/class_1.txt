@@ -1,0 +1,16 @@
+Class: Customers
+
+Attributes:
+number_in_party (integer)
+name_of_party (string)
+amount_charged (float)
+number_of_infants (integer)
+amount_tipped (float)
+reservation (boolean)
+
+Methods:
+make_reservation (changes the reservation to true, and sets the number_in_party
+and name_of_party)
+count_tipped (changes the amount_tipped)
+total_payment (adds amount_charged and amount_tipped)
+charge (changes the amount_charged)
